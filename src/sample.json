@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "name": "leash",
+        "description": "Red",
+        "price": "100 mxn"
+    },
+    {
+        "id": "1",
+        "name": "kibble",
+        "description": "1Kg",
+        "price": "50 mxn"
+    },
+    {
+        "id": "1",
+        "name": "toy",
+        "description": "dog ball",
+        "price": "130 mxn"
+    }
+]
